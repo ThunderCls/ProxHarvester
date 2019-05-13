@@ -1,0 +1,14 @@
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\bin\Debug\ProxHarvester.exe.config
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\bin\Debug\ProxHarvester.exe
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\bin\Debug\ProxHarvester.pdb
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\obj\Debug\ProxHarvester.csprojResolveAssemblyReference.cache
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\obj\Debug\ProxHarvester.Form1.resources
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\obj\Debug\ProxHarvester.Properties.Resources.resources
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\obj\Debug\ProxHarvester.csproj.GenerateResource.Cache
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\obj\Debug\ProxHarvester.exe
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\obj\Debug\ProxHarvester.pdb
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\bin\Debug\FlatUI.dll
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\bin\Debug\HtmlAgilityPack.dll
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\bin\Debug\HtmlAgilityPack.pdb
+E:\GITHUB Projects\ProxHarvester\ProxHarvester\ProxHarvester\bin\Debug\HtmlAgilityPack.xml
